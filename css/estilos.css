@@ -1,0 +1,16 @@
+body {
+    color: blueviolet;
+    text-shadow: 3px 5px 2px rgb(216, 35, 11);
+}
+
+table {
+    background: rgb(211, 196, 111);
+}
+#boton1{
+    padding: o 20px 20px;
+    background-color: rgb(211, 111, 186);
+    color:rgb(255, 255, 255);
+    text-shadow: 2px 3px 1px rgb(255, 8, 0);
+    font-size: 24px;
+
+}
